@@ -54,11 +54,3 @@ If you want to improve the game or fix bugs:
 
 This project is open-source and available under the MIT License. Feel free to use and modify the code as per the license terms.
 
----
-
-## Contact
-
-For any questions or feedback, please contact the developer at [developer@example.com](mailto\:developer@example.com).
-
-Enjoy the game and have fun managing your virtual business!
-
